@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#bb{
+	position: absolute;
+	left: 0px;
+	height: 800px;
+	width: 1550px;
+}
+#border{
+	border: 10px solid black;
+	height: 600px;
+	width: 1000px;
+	position: absolute;
+	top: 60px;
+	left: 280px;
+	background: rgb(54,85,193);
+	background: linear-gradient(90deg, rgba(54,85,193,1) 0%, rgba(3,19,89,1) 100%);
+	border-style: none;
+}
+#nav{
+	background: #d8eef8;
+	display:flex;
+}
+#list{
+	margin-left: 600px;
+	font-weight: 600; 
+}
+#cake1{
+	position: absolute;
+	top: 220px;
+	left: 660px;
+	height: 300px;
+	width: 300px;
+}
+#cake2{
+	position: absolute;
+	top: 480px;
+	left: 30px;
+	height: 280px;
+	width: 210px;
+}
+#cake3{
+	position: absolute;
+	top: 15px;
+	left: 1300px;
+	height: 230px;
+	width: 210px;
+}
+#cake4{
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	height: 230px;
+	width: 210px;
+}
+#cake5{
+	position: absolute;
+	top: 490px;
+	left: 1300px;
+	height: 290px;
+	width: 210px;
+}
+#wish{
+	color: white;
+	font-family: initial;
+}
+#h2{
+	position: absolute;
+	top: 60px;
+	left: 50px;
+	font-weight: 300;
+	font-size: 65px;
+	font-style: oblique;
+}
+#para{
+	margin: 120px 30px;
+	width: 600px;
+}
+#hippo1{
+	position: absolute;
+	top: 250px;
+	left: 30px;
+	height: 230px;
+	width: 210px;
+}
+#hippo2{
+	position: absolute;
+	top: 230px;
+	left: 1300px;
+	height: 270px;
+	width: 210px;
+}

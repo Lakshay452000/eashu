@@ -1,0 +1,265 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar-inverse{
+	background: #01072B;
+}
+.navbar-inverse .nav li a{
+	color: white;
+}
+#list{
+	margin-left: 1100px;
+	font-weight: 600; 
+}
+#bb21{
+	height: 750px;
+	width: 1550px;
+	opacity: 0.8;
+}
+#cake21{
+	position: absolute;
+	top: 140px;
+	left: 70px;
+	height: 490px;
+	width: 500px;
+}
+#border21{
+	position: absolute;
+	top: 140px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb22{
+	position: relative;
+	height: 900px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake22{
+	position: absolute;
+	top: 980px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border22{
+	position: absolute;
+	top: 980px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb23{
+	position: relative;
+	height: 800px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake23{
+	position: absolute;
+	top: 1820px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border23{
+	position: absolute;
+	top: 1820px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb24{
+	position: relative;
+	height: 800px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake24{
+	position: absolute;
+	top: 2620px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border24{
+	position: absolute;
+	top: 2620px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb25{
+	position: relative;
+	height: 1100px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake25{
+	position: absolute;
+	top: 3520px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border25{
+	position: absolute;
+	top: 3520px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb26{
+	position: relative;
+	height: 800px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake26{
+	position: absolute;
+	top: 4520px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border26{
+	position: absolute;
+	top: 4520px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb27{
+	position: relative;
+	height: 800px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake27{
+	position: absolute;
+	top: 5320px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border27{
+	position: absolute;
+	top: 5320px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb28{
+	position: relative;
+	height: 800px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake28{
+	position: absolute;
+	top: 6120px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border28{
+	position: absolute;
+	top: 6120px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 15px;
+	padding-left: 20px;
+	font-size: 25px;
+}
+#bb29{
+	position: relative;
+	height: 800px;
+	width: 1550px;
+	opacity: 0.7;
+}
+#cake29{
+	position: absolute;
+	top: 6920px;
+	left: 70px;
+	height: 500px;
+	width: 500px;
+}
+#border29{
+	position: absolute;
+	top: 6920px;
+	left: 970px;
+	border: 2px solid red;
+	height: 500px;
+	width: 500px;
+	background: rgb(157,12,149);
+	background: linear-gradient(90deg, rgba(157,12,149,1) 16%, rgba(1,140,212,1) 100%);
+	border-style: none;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	font-size: 17px;
+}
